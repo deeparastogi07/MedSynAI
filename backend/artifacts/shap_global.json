@@ -1,0 +1,42 @@
+[
+  {
+    "feature": "Systolic Bp",
+    "raw": "num__systolic_bp",
+    "importance": 0.13416373250846517
+  },
+  {
+    "feature": "Diastolic Bp",
+    "raw": "num__diastolic_bp",
+    "importance": 0.05487243870263415
+  },
+  {
+    "feature": "Age",
+    "raw": "num__age",
+    "importance": 0.04672151265649459
+  },
+  {
+    "feature": "Cholesterol 1",
+    "raw": "cat__cholesterol_1",
+    "importance": 0.03312050635636661
+  },
+  {
+    "feature": "Bmi",
+    "raw": "num__bmi",
+    "importance": 0.022158304846033764
+  },
+  {
+    "feature": "Cholesterol 3",
+    "raw": "cat__cholesterol_3",
+    "importance": 0.01982914983168091
+  },
+  {
+    "feature": "Active 1",
+    "raw": "cat__active_1",
+    "importance": 0.004219973328552206
+  },
+  {
+    "feature": "Active 0",
+    "raw": "cat__active_0",
+    "importance": 0.003843970236817434
+  }
+]
